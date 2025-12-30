@@ -18,7 +18,7 @@ Click the link below to view the deployed portfolio App on Vercel:
 👉 [Live Site on Vercel](https://portfolio-rs5z.vercel.app/)
 
 ## 📸 Screenshot
-![screenshot]("C:\Users\HP\OneDrive\Documents\Pictures\Screenshots\Screenshot 2025-12-30 134732.png")
+[screenshot](<img width="1899" height="904" alt="Screenshot 2025-12-30 134732" src="https://github.com/user-attachments/assets/e4a9470d-d6f6-4c30-bc65-535b34d6bade" />) <!-- Optional: replace with your actual image file if you upload one -->
 
 ## 📁 Project Structure
 # Portfolio App
